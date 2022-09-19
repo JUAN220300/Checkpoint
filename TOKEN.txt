@@ -5,3 +5,6 @@ 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
 token yury: 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
 
 token Guillermo: faaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+token JUan: 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
+
